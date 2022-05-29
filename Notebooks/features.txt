@@ -1,0 +1,62 @@
+previous_period_happiness_change
+previous_period_happiness_change_no_outliers
+Year
+Year_no_outliers
+mean_income_support_no_outliers
+mean_income_support
+productivity
+productivity_no_outliers
+n_is_claimants
+no_rainy_days_no_outliers
+bankruptcy_pp_no_outliers
+gp_access_no_outliers
+n_is_claimants_no_outliers
+road_casualties_no_outliers
+unemployment
+Village or smaller_no_outliers
+no_rainy_days
+house_sales_pp_no_outliers
+Village or smaller
+inflation_no_outliers
+bankruptcy_pp
+road_casualties
+house_sales_pp
+childhood_tooth_decay_no_outliers
+unemployment_no_outliers
+gp_access
+Core City_no_outliers
+childhood_tooth_decay
+Large Town_no_outliers
+income_support_rate_no_outliers
+dental_access
+bankruptcy
+Small Town_no_outliers
+dental_access_no_outliers
+bankruptcy_no_outliers
+gardens_perc
+house_sales_no_outliers
+gardens_perc_no_outliers
+crimes
+income_support_rate
+crimes_no_outliers
+Medium Town_no_outliers
+processing_no_outliers
+population_density
+processing
+house_sales
+population_density_no_outliers
+Small Town
+Medium Town
+ofsted_no_outliers
+ofsted
+infant_mortality
+inflation
+Other City_no_outliers
+Large Town
+suicide_rates_no_outliers
+population_no_outliers
+Other City
+Core City
+population
+infant_mortality_no_outliers
+suicide_rates

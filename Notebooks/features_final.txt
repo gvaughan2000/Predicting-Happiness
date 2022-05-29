@@ -1,0 +1,31 @@
+previous_period_happiness_change
+Year
+mean_income_support_no_outliers
+productivity
+n_is_claimants
+no_rainy_days_no_outliers
+bankruptcy_pp_no_outliers
+gp_access_no_outliers
+road_casualties_no_outliers
+unemployment
+Village or smaller_no_outliers
+house_sales_pp_no_outliers
+inflation_no_outliers
+childhood_tooth_decay_no_outliers
+Core City_no_outliers
+Large Town_no_outliers
+income_support_rate_no_outliers
+dental_access
+bankruptcy
+Small Town_no_outliers
+gardens_perc
+house_sales_no_outliers
+crimes
+Medium Town_no_outliers
+processing_no_outliers
+population_density
+ofsted_no_outliers
+infant_mortality
+Other City_no_outliers
+suicide_rates_no_outliers
+population_no_outliers
